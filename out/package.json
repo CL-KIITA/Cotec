@@ -1,0 +1,7 @@
+{
+  "name": "cotec",
+  "description": "Cotec: Conlang Table Expression powered by CSV",
+  "version": "0.8.1",
+  "author": "Haruka Sato <as.he.that.doth.serve@gmail.com>",
+  "license": "Mozilla Public License"
+}
