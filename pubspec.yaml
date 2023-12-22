@@ -1,0 +1,8 @@
+name: cotec
+description: "Cotec: Conlang Table Expression powered by CSV"
+version: 0.8.1
+author: Haruka Sato <as.he.that.doth.serve@gmail.com>
+environment:
+  sdk: ^4.0.0
+executables:
+  ctct:
